@@ -6,13 +6,7 @@ private Double peso;
 private Double estatura;
 
 /** Implementar constructores **/
-public CRecord(string c, string n, string a, Double p, Double p, Double e){
-clave = c;
-nombre = n;
-apellido = a;
-peso = p;
-estatura =e;
-}
+public cRecord(){}
 /** Implementar setters **/
 
 /** Implementar getters **/
