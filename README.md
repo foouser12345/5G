@@ -28,4 +28,4 @@ Se debe enfatizar la legibilidad del código
 
 ##Ejemplo
 
-###[Clase de pracica.](https://github.com/ARCHIVOS-MIT18314/5G/blob/master/CRecord.java)
+###[Clase de practica.](https://github.com/ARCHIVOS-MIT18314/5G/blob/master/CRecord.java)
