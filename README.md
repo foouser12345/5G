@@ -9,7 +9,7 @@ Instructor: Dante A. Muñoz Q., damunoz@uat.edu.mx
 Descripción del Curso
 
 
-Prerequisites
+Prerequisitos
 
 Conocimiento completo de tipos de datos, clases de envoltorio, sentencias de decisión, bucles en java
 Coprensión de los algoritmos de inserción, búsqueda y eliminación en estructuras de datos dinámicas.
