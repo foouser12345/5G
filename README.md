@@ -3,7 +3,7 @@
 
 Repositorio para código de archivos
 
-Curso: M.IT18.314, UAT
+Curso: M.IT18.314, Manejo de Archivos UAT
 Instructor: Dante A. Muñoz Q., damunoz@uat.edu.mx
 
 Descripción del Curso
@@ -26,6 +26,8 @@ Se debe aplicar encapsulamiento, herencia, polimorfismo y empaquetado, siempre q
 Se debe enfatizar la legibilidad del código
 
 Bonificaciones por:
+
+==== en breve ===
 
 Ejemplo
 
