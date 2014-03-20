@@ -8,7 +8,9 @@ private Double estatura;
 /** Implementar constructores **/
 public cRecord(){}
 /** Implementar setters **/
-
+public void setNombre(String n){
+  nombre = n;
+}
 /** Implementar getters **/
 
 }
