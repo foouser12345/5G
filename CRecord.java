@@ -6,11 +6,15 @@ private Double peso;
 private Double estatura;
 
 /** Implementar constructores **/
-
-/** Implementar setters **/
-public void setNombre(String n){
-  nombre = n;
+public CRecord(string c, string n, string a, Double p, Double p, Double e){
+clave = c;
+nombre = n;
+apellido = a;
+peso = p;
+estatura =e;
 }
+/** Implementar setters **/
+
 /** Implementar getters **/
 
 }
