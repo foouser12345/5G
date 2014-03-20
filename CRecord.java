@@ -12,5 +12,7 @@ public void setNombre(String n){
   nombre = n;
 }
 /** Implementar getters **/
-
+public String getNombre(){
+  return nombre;
+}
 }
